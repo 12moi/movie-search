@@ -91,6 +91,7 @@ input[type="submit"]:hover {
 .search > input[type="text"]{
   width: 40%;
   min-width: 170px;
+  border-radius: 5px;
 }
 
 @media screen and (min-width: 694px) and (max-width: 915px) {
