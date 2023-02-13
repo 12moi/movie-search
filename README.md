@@ -3,7 +3,8 @@
 ## Description
 This is a simple web app that displays the searched movie by the user of the web app.
 
-
+## Screenshot
+![Homepage](/relative/path/to/img.jpg?raw=true "Optional Title")
 
 
 ## License
