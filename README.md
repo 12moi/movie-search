@@ -1,4 +1,7 @@
-# Movies search
+# Movies search App
+
+## Description
+This is a simple web app that displays the searched movie by the user of the web app.
 
 
 
