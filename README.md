@@ -4,7 +4,7 @@
 This is a simple web app that displays the searched movie by the user of the web app.
 
 ## Screenshot
-![Homepage](/src/assets/images/homepage.png?raw=true "Optional Title")
+![Homepage](/src/assets/images/home.png.png?raw=true "Optional Title")
 
 
 ## License
